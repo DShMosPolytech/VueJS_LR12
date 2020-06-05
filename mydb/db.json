@@ -1,0 +1,68 @@
+{
+  "contacts": [
+    {
+      "surname": "Иванов",
+      "name": "Иван",
+      "otchestvo": "Иванович",
+      "phone": "8 999 852 77 41",
+      "fav": false,
+      "id": 1
+    },
+    {
+      "surname": "Алексеева",
+      "name": "Алиса",
+      "otchestvo": "Сергеевна",
+      "phone": "8 996 145 33 69",
+      "fav": true,
+      "id": 2
+    },
+    {
+      "surname": "Яковлев",
+      "name": "Максим",
+      "otchestvo": "Владимирович",
+      "phone": "8 924 456 33 21",
+      "fav": true,
+      "id": 5
+    },
+    {
+      "surname": "Яблонева",
+      "name": "Ирина",
+      "otchestvo": "Васильевна",
+      "phone": "8 948 663 22 03",
+      "fav": true,
+      "id": 6
+    },
+    {
+      "surname": "Тимуров",
+      "name": "Дмитрий",
+      "otchestvo": "Максимович",
+      "phone": "8 911 330 66 58",
+      "fav": false,
+      "id": 7
+    },
+    {
+      "surname": "Филатов",
+      "name": "Игорь",
+      "otchestvo": "",
+      "phone": "8 945 774 96 52",
+      "fav": false,
+      "id": 8
+    },
+    {
+      "surname": "Грачева",
+      "name": "Юлия",
+      "otchestvo": "",
+      "phone": "8 936 245 84 10",
+      "fav": true,
+      "id": 9
+    },
+    {
+      "surname": "Масленов",
+      "name": "Виктор",
+      "otchestvo": "",
+      "phone": "8 974 552 03 41",
+      "fav": false,
+      "id": 10
+    }
+  ]
+}
